@@ -1,5 +1,8 @@
 ## Olá Mundo 🤓  
- 	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-
-  ![Snake animation](https://github.com/amandaeduarda/amandaeduarda/blob/output/github-contribution-grid-snake.svg)
+<div>
+ <img src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
+ <img src="https://img.icons8.com/dusk/64/000000/css3.png"/>
+</div>
+ 
+![Snake animation](https://github.com/amandaeduarda/amandaeduarda/blob/output/github-contribution-grid-snake.svg)
  
